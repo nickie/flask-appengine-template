@@ -1,12 +1,15 @@
-# Standard ignores
+*~
+*.bak
+*.swp
+
 *.pyc
 *.pyo
-*.DS_Store
-*.swp
 *.idea
 *.project
 *.pydevproject
 *.kpf
+
+.DS_Store
 venv
 
 # Don't store secret keys in version control

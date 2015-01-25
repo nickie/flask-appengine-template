@@ -14,6 +14,7 @@ import sys
 import pkgutil
 import posixpath
 import mimetypes
+import json
 from time import time
 from zlib import adler32
 from threading import RLock
